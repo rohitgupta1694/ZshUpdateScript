@@ -1,0 +1,202 @@
+    1  sudo chown dogether_system.dogether
+    2  sudo chown dogether_system:dogether ~dogether
+    3  sudo chown dogether_system./home/dogether_system
+    4  logout
+    5  sudo chmod BackupData
+    6  sudo chmod +777 BackupData
+    7  ls -la
+    8  cd BackupData/
+    9  ls -la
+   10  cd ..
+   11  sudo chmod -R +777 BackupData
+   12  exit
+   13  sudo su
+   14  ls
+   15  sudo su
+   16  man cp
+   17  echo $SHELL
+   18  echo $0
+   19  sudo su
+   20  sudo chmod -R +777 BackupData
+   21  ls
+   22  cd dogether_system/
+   23  ls
+   24  sudo chmod -R +777 BackupData
+   25  exec sudo -i
+   26  sudo apt-get install zsh
+   27  echo $0
+   28  echo $SHELL
+   29  git apt-get update
+   30  sudo apt-get update
+   31  sudo apt-get upgrade
+   32  sudo apt-get autoremove
+   33  sudo apt-get install zsh
+   34  sudo apt-get install git-core
+   35  curl -L http://install.ohmyz.sh | sh
+   36  which zsh
+   37  echo $SHELL
+   38  echo $0
+   39  wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -0 - | zsh
+   40  wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh
+   41  sudo chsh -s $(which zsh)
+   42  wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh
+   43  echo $SHELL
+   44  echo $0
+   45  which zsh
+   46  sudo chsh -s $(which zsh)
+   47  wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh
+   48  sudo chsh -s $(which bash)
+   49  sudo apt-get purge --auto-remove zsh
+   50  exit
+   51  sudo apt-get update
+   52  sudo apt-get install git
+   53  git config --global user.name
+   54  git config --global user.name "Rohit Gupta"
+   55  git config --global user.email "er.rohitgupta@outlook.com"
+   56  git config --global user.name
+   57  git config --global user.email
+   58  ssh-keygen -t rsa -b 4096 -C "er.rohitgupta@outlook.com"
+   59  eval"$(ssh-agent -s)"
+   60  eval "$(ssh-agent -s)"
+   61  ssh-add ~/.ssh/id_rsa
+   62  xclip -sel clip < ~/.ssh/id_rsa.pub
+   63  vi ~/.ssh/id_rsa.pub
+   64  cd Downloads/
+   65  sudo unzip android-studio-ide-171.4408382-linux.zip -d /opt
+   66  cd AndroidStudioProjects/
+   67  git clone git@github.com:DogetherApp/ExperienceDemo.git
+   68  vi ~/.ssh/id_rsa.pub
+   69  git status
+   70  git add -A
+   71  git status
+   72  ls
+   73  git clone git@github.com:DogetherApp/Dogether-Android-App.git
+   74  keytool -exportcert -alias androiddebugkey -keystore "\.android\debug.keystore" | "C:\OpenSSL\bin\openssl" sha1 -binary |"C:\OpenSSL\bin\openssl" base64
+   75  keytool -exportcert -alias androiddebugkey -keystore "\.android\debug.keystore" | "\bin\openssl" sha1 -binary |"bin\openssl" base64
+   76  keytool -exportcert -alias androiddebugkey -keystore ~/.android/debug.keystore | openssl sha1 -binary | openssl base64
+   77  git status
+   78  IBUS_ENABLE_SYNC_MODE=1 ibus-daemon --replace
+   79  git fetch
+   80  git pull
+   81  npm -v
+   82  sudo apt-get install node
+   83  npm -v
+   84  node -v
+   85  node -version
+   86  node --version
+   87  sudo apt-get npm
+   88  sudo apt-get install npm
+   89  sudo apt-get install nodejs
+   90  noejs -v
+   91  node -v
+   92  nodejs -v
+   93  sudo apt-get install npm
+   94  sudo apt-get install node
+   95  node -v
+   96  nodejs -v
+   97  sudo apt-get remove node
+   98  sudo apt-get remove nodejs
+   99  sudo apt-get remove npm
+  100  sudo apt-get --prune remove
+  101  sudo apt-get remove
+  102  sudo apt-get clean
+  103  sudo apt-get auto-remove
+  104  sudo apt-get auto-remove clean
+  105  sudo apt-get --clean remove
+  106  sudo apt-get remove
+  107  sudo apt-get install nodejs
+  108  sudo apt-get install nodejs-legacy
+  109  npm
+  110  npm -v
+  111  nodejs -v
+  112  node -v
+  113  npm install -g learnyounode
+  114  sudo npm install -g learnyounode
+  115  learnyounode
+  116  console.log("test")
+  117  console.log("text")
+  118  learnyounode
+  119  sudo apt-get update
+  120  sudo apt-get upgrade
+  121  sudo apt-get autoremove
+  122  exit
+  123  git fetch
+  124  git pull
+  125  git push
+  126  ssh shubham_mumbai_ec2@52.66.16.156
+  127  exit
+  128  git push
+  129  ssh shubham_mumbai_ec2@52.66.16.156
+  130  ssh shubham_mumbai_ec2@52.66.16.156
+  131  ssh shubham_mumbai_ec2@52.66.16.156
+  132  vi ~/.ssh/id_rsa.pub
+  133  git fetch
+  134  git pull
+  135  git fetch
+  136  git pull
+  137  git push
+  138  ssh shubham_mumbai_ec2@52.66.16.156
+  139  cd ~/lib/systemd/system
+  140  cd ..
+  141  cd ~/lib/systemd/system
+  142  cd ..
+  143  ls
+  144  cd lib
+  145  cd systemd
+  146  ls
+  147  cd system
+  148  ls -l runlevel5.target
+  149  ls
+  150  ls -l udev.service.target
+  151  ls -l udev.service
+  152  ls -l postgresql.sevice
+  153  ls -l postgresql.service
+  154  cd ..
+  155  cd home/
+  156  cd dogether/
+  157  sudo apt-get update
+  158  sudo apt-get upgrade
+  159  sudo apt-get autoremove
+  160  sudo apt-get install virtualbox
+  161  sudo df -h
+  162  mount
+  163  mongod --version\
+  164  mongod --version
+  165  sudo service start mongod
+  166  sudo systemctl start mongod.service
+  167  ls
+  168  cd ..
+  169  ls
+  170  cd etc
+  171  ls
+  172  cd systemd
+  173  ls
+  174  cd system
+  175  ls
+  176  cd
+  177  ls
+  178  systemctl isolate poweroff.target
+  179  telinit 0
+  180  sudo systemctl isolate 0
+  181  lsblk
+  182  sudo lshw
+  183  sudo mkdir /media/usbstick
+  184  sudo mount -t vfat /dev/sdb /media/usbstick
+  185  sudo mount -t vfat /dev/sdb1 /media/usbstick
+  186  lsblk
+  187  chown -R dogether:dogether /media
+  188  sudo chown -R dogether:dogether /media
+  189  sudo chmod -R 755 /media
+  190  sudo umount /media/usbstick
+  191  git fetch
+  192  git pull
+  193  git stash
+  194  git pull
+  195  git stash pop
+  196  mv ~/VirtualBox\ VMs/Ubuntu\ 14.04\ ISO\ file/ ~/Desktop/pendrive/
+  197  ls
+  198  cd ~/Desktop/pendrive/
+  199  ls
+  200  ll
+  201  history
+  202  history >> file.txt
